@@ -6,6 +6,7 @@ public class Main
         // set up scanner
         Scanner scanner = new Scanner(System.in);
         // initialize variables
+        // git hub comment
         int MPG;
         double tankCapacity;
         double percentage;
